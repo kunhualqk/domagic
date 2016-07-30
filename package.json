@@ -1,0 +1,15 @@
+{
+	"name": "domagic",
+	"version": "0.0.4",
+	"description": "Description logic in the dom",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kunhualqk/domagic.git"
+	},
+	"author": "K_Reverter <kunhualqk@gmail.com>",
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.8"
+	}
+}
